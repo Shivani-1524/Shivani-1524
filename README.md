@@ -3,7 +3,7 @@
 <h1 align="center">
     Hi, I'm Shivani!  <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="50px" height="50px">
 </h1>
-<h3 align="center">Full-Stack web developer and a curious product builder</h3>
+<h3 align="center">Full-Stack web developer and a tech enthusiast</h3>
 
 ## About Me
 - 😄 Pronouns: She/her
