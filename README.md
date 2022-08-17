@@ -14,16 +14,17 @@
 - ⚡ Fun fact: I revel in anything sci-fi or gaming
 
 ## My Blogs
-![https://medium.com/@shivanipothirajan](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
-![](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)
+<a href="https://medium.com/@shivanipothirajan"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></img></a>
+<a href="https://hashnode.com/@darcode"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></img></a>
+
 ### Latest Blogs
 - [WebAssembly-The Bridge](https://medium.com/codex/webassembly-the-bridge-19d0e999064f)
 - [Fluid Images, Fonts and Pixels](https://darcode.hashnode.dev/fluid-images-fonts-and-pixels)
 - [Quantum Computing](https://medium.com/@shivanipothirajan/the-magic-of-quantum-computing-d3144c3adedd)
 ## Reach out to me
-![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
-![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+<a href="mailto:shivanipothirajan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
+<a href="https://twitter.com/Shivani07517015"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></img></a>
+<a href="https://www.linkedin.com/in/shivani-pothirajan-2b276996/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 
 
 ## My Stats
