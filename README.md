@@ -14,7 +14,7 @@
 - ⚡ Fun fact: I revel in anything sci-fi or gaming
 
 ## My Blogs
-![](	https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+![https://medium.com/@shivanipothirajan](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 ![](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)
 ### Latest Blogs
 - [WebAssembly-The Bridge](https://medium.com/codex/webassembly-the-bridge-19d0e999064f)
