@@ -9,7 +9,7 @@
 - 😄 Pronouns: She/her
 - 🔭 figuring out my niche and building projects that im passionate about 
 - 👯 I’m looking to collaborate or intern on projects related to web development
-- 🌱 looking forward to learning AWS, Blockchain development, Offline Webapps, PWAs and Websockets.
+- 🌱 looking forward to learning AWS, Offline Webapps, PWAs and Websockets.
 - 🎓 Currently 4th year or Senior BE Computer Science Engineer
 - ⚡ Fun fact: I revel in anything sci-fi or gaming
 
