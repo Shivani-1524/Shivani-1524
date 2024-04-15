@@ -8,9 +8,9 @@
 ## About Me
 - 😄 Pronouns: She/her
 - 🔭 figuring out my niche and building projects that im passionate about 
-- 👯 I’m looking to collaborate or intern on projects related to web development
-- 🌱 looking forward to learning AWS, Offline Webapps, PWAs and Websockets.
-- 🎓 Currently 4th year or Senior BE Computer Science Engineer
+- 👯 I’m looking to collaborate or work with anyone who has an interesting vision
+- 🌱 looking forward to learning AWS, building a generative AI model, Offline Webapps, PWAs and Websockets.
+- 🎓 graduated in 2023 from Anna University and have gained experience working with web for more than a year
 - ⚡ Fun fact: I revel in anything sci-fi or gaming
 
 ## My Blogs
