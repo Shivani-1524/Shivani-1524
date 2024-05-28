@@ -7,11 +7,11 @@
 
 ## About Me
 - 😄 Pronouns: She/her
-- 🔭 figuring out my niche and building projects that im passionate about 
+- 🔭 figuring out my niche and building products that im passionate about 
 - 👯 I’m looking to collaborate or work with anyone who has an interesting vision
 - 🌱 looking forward to learning AWS, building a generative AI model, Offline Webapps, PWAs and Websockets.
-- 🎓 graduated in 2023 from Anna University and have gained experience working with web for more than a year
-- ⚡ Fun fact: I revel in anything sci-fi or gaming
+- 🎓 graduated in 2023 from SRM Easwarin Engineering College and have gained experience working with web for more than 1.5+ years
+- ⚡ Fun fact: I revel in anything sci-fi or gaming and enjoy learning about everything
 
 ## My Blogs
 <a href="https://medium.com/@shivanipothirajan"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></img></a>
@@ -21,6 +21,7 @@
 - [WebAssembly-The Bridge](https://medium.com/codex/webassembly-the-bridge-19d0e999064f)
 - [Fluid Images, Fonts and Pixels](https://darcode.hashnode.dev/fluid-images-fonts-and-pixels)
 - [Quantum Computing](https://medium.com/@shivanipothirajan/the-magic-of-quantum-computing-d3144c3adedd)
+
 ## Reach out to me
 <a href="mailto:shivanipothirajan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
 <a href="https://twitter.com/Shivani07517015"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></img></a>
@@ -28,9 +29,8 @@
 
 
 ## My Stats
-[![Shivani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shivani-1524&theme=radical)](https://github.com/Shivani-1524/github-readme-stats)
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivani-1524&layout=donut-vertical)](https://github.com/Shivani-1524/github-readme-stats)
+[![Shivani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shivani-1524&include_all_commits=true&theme=aura)](https://github.com/Shivani-1524/github-readme-stats)
 <!--
 **Shivani-1524/Shivani-1524** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
