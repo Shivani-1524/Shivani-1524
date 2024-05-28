@@ -10,7 +10,7 @@
 - 🔭 figuring out my niche and building products that im passionate about.
 - 👯 I’m looking to collaborate or work with anyone who has an interesting vision.
 - 🌱 looking forward to learning how to build AI models, 3D websites, VR and AR games.
-- 🎓 graduated in 2023 from SRM Easwari Engineering College and have gained experience working as a fullstack developer for more than 1.5+ years
+- 🎓 graduated and gained experience working as a fullstack developer for more than 1.5+ years
 - ⚡ Fun fact: I revel in anything sci-fi or gaming and enjoy learning about everything
 
 ## My Blogs
